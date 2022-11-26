@@ -1,0 +1,57 @@
+html{
+    background-color: rgb(229, 239, 253);
+    font-size: 16px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.block1{
+    width: 1150px;
+    position: absolute;
+    left: 300px;
+}
+
+.description{
+    float: left;
+    display: block;
+    width: 600px;
+}
+
+.head_img{
+    float: right;
+    padding-top: 25px;
+    display: block;
+    width: 500px;
+}
+
+#image1{
+    width: 500px;
+}
+
+h1, h2, h3{
+    color: rgb(7, 41, 163);
+}
+
+.block2{
+    width: 1150px;
+    left: 300px;
+}
+
+.table{
+    float: left;
+    display: block;
+    width: 600px;
+    align-self: center;
+}
+
+.photo{
+    float: right;
+    padding-top: 25px;
+    display: block;
+    width: 500px;
+}
+
+#image2{
+    width: 500px;
+}
+
